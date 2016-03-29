@@ -10,7 +10,7 @@
         "module": "es2015",
         
         "declaration": true,
-        "outDir": "lib/"
+        "outDir": "dist/"
     },
     "awesomeTypescriptLoaderOptions": {
         "useWebpackText":  false

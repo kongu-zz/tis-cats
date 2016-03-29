@@ -6,10 +6,10 @@
         "type": "git",
         "url": ""
     },
-    "main": "lib/index.ts",
-    "typings": "lib/index",
+    "main": "dist/index.js",
+    "typings": "dist/index",
     "files": [
-        "lib/"
+        "dist/"
     ],
     "devDependencies": {
         "awesome-typescript-loader": "^0.15.10",
