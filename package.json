@@ -5,10 +5,10 @@
         "type": "git",
         "url": "https://github.com/kongu-zz/tis-cats"
     },
-    "main": "dist/index.js",
-    "typings": "dist/index",
+    "main": "./dist/index.js",
+    "typings": "./dist/index",
     "files": [
-        "dist/"
+        "./dist/"
     ],
     "devDependencies": {
         "awesome-typescript-loader": "^0.15.10",
