@@ -14,13 +14,7 @@
         "declaration": true,
         "outDir": "dist/"
     },
-    "awesomeTypescriptLoaderOptions": {
-        "useWebpackText":  false
-    },
-    "exclude": [
-        "node_modules"
-    ],
     "files": [
-	"src/index.ts"
+	"./src/index.ts"
     ]
 }
